@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+*.pth
+*.log
+.DS_Store
+.idea/
+.vscode/
+.env
+chest_xray/
+.venv/
+venv/
